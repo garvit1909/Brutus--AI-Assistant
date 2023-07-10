@@ -1,3 +1,4 @@
+
 import webbrowser
 import openai
 import speech_recognition as sr
@@ -117,4 +118,10 @@ if __name__ == '__main__':
             chatstr=""
         else:
             chat(query)
+
+
+
+
+
+
 
