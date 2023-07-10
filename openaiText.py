@@ -16,8 +16,6 @@ response = openai.Completion.create(
 
 print(response)
 
-# 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
-# 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
 '''
 {
   "id": "cmpl-7aj9eLj9HPdYo6JEpqXRUTM9XO344",
